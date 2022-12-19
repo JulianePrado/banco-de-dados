@@ -1,6 +1,6 @@
 # banco-de-dados!
 
-<img src="">
+<img src="IMG-20221219-WA0002.jpg">
 
 Desafio:
 
